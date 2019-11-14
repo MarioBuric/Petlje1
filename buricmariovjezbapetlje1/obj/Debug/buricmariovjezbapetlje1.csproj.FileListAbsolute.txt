@@ -1,0 +1,7 @@
+C:\Users\Učenik 10\source\repos\buricmariovjezbapetlje1\buricmariovjezbapetlje1\obj\Debug\buricmariovjezbapetlje1.csprojAssemblyReference.cache
+C:\Users\Učenik 10\source\repos\buricmariovjezbapetlje1\buricmariovjezbapetlje1\obj\Debug\buricmariovjezbapetlje1.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 10\source\repos\buricmariovjezbapetlje1\buricmariovjezbapetlje1\bin\Debug\buricmariovjezbapetlje1.exe.config
+C:\Users\Učenik 10\source\repos\buricmariovjezbapetlje1\buricmariovjezbapetlje1\bin\Debug\buricmariovjezbapetlje1.exe
+C:\Users\Učenik 10\source\repos\buricmariovjezbapetlje1\buricmariovjezbapetlje1\bin\Debug\buricmariovjezbapetlje1.pdb
+C:\Users\Učenik 10\source\repos\buricmariovjezbapetlje1\buricmariovjezbapetlje1\obj\Debug\buricmariovjezbapetlje1.exe
+C:\Users\Učenik 10\source\repos\buricmariovjezbapetlje1\buricmariovjezbapetlje1\obj\Debug\buricmariovjezbapetlje1.pdb
